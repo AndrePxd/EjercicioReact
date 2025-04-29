@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "cargo": "Analista de Sistemas",
+      "activo": true
+    },
+    {
+      "id": 2,
+      "nombre": "María",
+      "apellido": "Gómez",
+      "cargo": "Gerente de Proyecto",
+      "activo": false
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos",
+      "apellido": "Ramírez",
+      "cargo": "Desarrollador Frontend",
+      "activo": true
+    },
+    {
+      "id": 4,
+      "nombre": "Laura",
+      "apellido": "Fernández",
+      "cargo": "Diseñadora UX/UI",
+      "activo": false
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "apellido": "López",
+      "cargo": "Administrador de BD",
+      "activo": true
+    },
+    {
+        "id": 6,
+        "nombre": "André",
+        "apellido": "Panique",
+        "cargo": "Tester/QA",
+        "activo": true
+      },
+     
+    {
+        "id": 7,
+        "nombre": "Ana",
+        "apellido": "Torres",
+        "cargo": "Especialista en Marketing",
+        "activo": true
+    },
+    {
+        "id": 8,
+        "nombre": "Luis",
+        "apellido": "Martínez",
+        "cargo": "Consultor de Negocios",
+        "activo": false
+    },
+    {
+        "id": 9,
+        "nombre": "Sofía",
+        "apellido": "Morales",
+        "cargo": "Ingeniera de Software",
+        "activo": true
+    },
+    {
+        "id": 10,
+        "nombre": "Ricardo",
+        "apellido": "Castro",
+        "cargo": "Técnico de Soporte",
+        "activo": false
+    }
+  ]
+  
